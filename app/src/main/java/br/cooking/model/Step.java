@@ -6,9 +6,6 @@ import com.google.auto.value.AutoValue;
 import com.google.gson.Gson;
 import com.google.gson.TypeAdapter;
 
-/**
- * Created by vinicius.rocha on 2/3/18.
- */
 
 @AutoValue
 public abstract class Step implements Parcelable {
