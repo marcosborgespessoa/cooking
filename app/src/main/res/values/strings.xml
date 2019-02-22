@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Master Chef</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ingredients_header">Ingredients:</string>
+
+    <string name="intent_detail_put_extra">RecipeResult</string>
+    <string name="bundle_step_item">StepItem</string>
+    <string name="step_position">StepPosition</string>
+
+    <string name="error_message">An error has occurred.</string>
+
+    <string name="appwidget_text">Master Chef Widget</string>
+    <string name="add_widget">Add widget</string>
+    <string name="widget_ok_button">OK</string>
+</resources>
